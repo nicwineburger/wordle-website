@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nicwineburger/wordle-website/static/css/main.7611ef4d.css",
+    "main.js": "/nicwineburger/wordle-website/static/js/main.283176c5.js",
+    "index.html": "/nicwineburger/wordle-website/index.html",
+    "main.7611ef4d.css.map": "/nicwineburger/wordle-website/static/css/main.7611ef4d.css.map",
+    "main.283176c5.js.map": "/nicwineburger/wordle-website/static/js/main.283176c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7611ef4d.css",
+    "static/js/main.283176c5.js"
+  ]
+}
